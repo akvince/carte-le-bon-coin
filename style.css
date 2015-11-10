@@ -1,0 +1,26 @@
+body {
+}
+header {
+  position: relative;
+  margin-top: 6%;
+  margin-left: 17%;
+}
+header img {
+  display: block;
+}
+section {
+
+
+}
+
+aside{
+position: relative;
+}
+
+}
+ul li{
+  list-style-type: none;
+  margin-top: 10px;
+  text-align: right;
+}
+footer {}
